@@ -12225,11 +12225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAME\\GitHub Desktop\\Comert Electronic\\Comert Electronic.csproj",
-      "projectName": "Comert Electronic",
-      "projectPath": "D:\\PROGRAME\\GitHub Desktop\\Comert Electronic\\Comert Electronic.csproj",
+      "projectUniqueName": "D:\\PROGRAME\\GitHub Desktop\\Comert-Electronic\\ComertElectronic.csproj",
+      "projectName": "ComertElectronic",
+      "projectPath": "D:\\PROGRAME\\GitHub Desktop\\Comert-Electronic\\ComertElectronic.csproj",
       "packagesPath": "C:\\Users\\bobyn\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAME\\GitHub Desktop\\Comert Electronic\\obj\\",
+      "outputPath": "D:\\PROGRAME\\GitHub Desktop\\Comert-Electronic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

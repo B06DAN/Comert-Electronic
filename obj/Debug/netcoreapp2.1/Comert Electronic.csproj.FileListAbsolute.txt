@@ -69,3 +69,43 @@ D:\PROGRAME\GitHub Desktop\Comert Electronic\obj\Debug\netcoreapp2.1\Razor\Views
 D:\PROGRAME\GitHub Desktop\Comert Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Favorite.g.cshtml.cs
 D:\PROGRAME\GitHub Desktop\Comert Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cart.g.cshtml.cs
 D:\PROGRAME\GitHub Desktop\Comert Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\AdminPanel.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\bin\Debug\netcoreapp2.1\Comert Electronic.deps.json
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\bin\Debug\netcoreapp2.1\Comert Electronic.runtimeconfig.json
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\bin\Debug\netcoreapp2.1\Comert Electronic.runtimeconfig.dev.json
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\bin\Debug\netcoreapp2.1\Comert Electronic.dll
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\bin\Debug\netcoreapp2.1\Comert Electronic.pdb
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\bin\Debug\netcoreapp2.1\Comert Electronic.Views.dll
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\bin\Debug\netcoreapp2.1\Comert Electronic.Views.pdb
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.csprojAssemblyReference.cache
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.csproj.CoreCompileInputs.cache
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.RazorAssemblyInfo.cache
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.RazorAssemblyInfo.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.AssemblyInfoInputs.cache
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.AssemblyInfo.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.TagHelpers.input.cache
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.TagHelpers.output.cache
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.RazorCoreGenerate.cache
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\AdminPanel.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cart.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Category.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Favorite.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\ModalitatiPlata.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReturProduse.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Home\TermeniConditii.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.RazorTargetAssemblyInfo.cache
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.RazorTargetAssemblyInfo.cs
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.Views.pdb
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.dll
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.pdb
+D:\PROGRAME\GitHub Desktop\Comert-Electronic\obj\Debug\netcoreapp2.1\Comert Electronic.csproj.CopyComplete
